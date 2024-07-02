@@ -1,16 +1,29 @@
-## Hi there 👋
+![Web Developer](https://media.licdn.com/dms/image/D5616AQHg7cSRWaXa2w/profile-displaybackgroundimage-shrink_350_1400/0/1714660858495?e=1725494400&v=beta&t=_VVQj7G-p9DlX2mi7MxaSTyeJwo-1HdNntkyRRDuyLE)
+###  Hi 👋, I'm Zarin Jahan Shazi
+#### Web Developer
 
-<!--
-**Zarinjahanshazi/Zarinjahanshazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+As a passionate Computer Science undergraduate and aspiring web developer, I am dedicated to leveraging technology to create transformative solutions. My journey has progressed from the classroom to the dynamic world of web development, where I continuously innovate and learn every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills:  HTML / CSS/ TailwindCSS/REACT / JS /MongoDB/Express/nodeJS
+
+- 🔭 I’m currently working on ReactJS 
+- 🌱 I’m currently learning Backend Developing. 
+- 👯 I’m looking to collaborate on github 
+- 🤔 I’m looking for help with Developing 
+- 💬 Ask me about Web Development 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Zarinjahanshazi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/zarin-shazi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/zarin.shazi.3)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Zarinjahanshazi)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zarinjahanshazi)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zarinjahanshazi&show_icons=true&count_private=true)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Zarinjahanshazi/contributions?format=svg&private=true)  
+
+
