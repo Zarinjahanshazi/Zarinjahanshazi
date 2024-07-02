@@ -1,8 +1,6 @@
-![Web Developer](https://media.licdn.com/dms/image/D5616AQHg7cSRWaXa2w/profile-displaybackgroundimage-shrink_350_1400/0/1714660858495?e=1725494400&v=beta&t=_VVQj7G-p9DlX2mi7MxaSTyeJwo-1HdNntkyRRDuyLE)
 ###  Hi 👋, I'm Zarin Jahan Shazi
-#### Web Developer
-
-
+![Web Developer](https://media.licdn.com/dms/image/D5616AQHg7cSRWaXa2w/profile-displaybackgroundimage-shrink_350_1400/0/1714660858495?e=1725494400&v=beta&t=_VVQj7G-p9DlX2mi7MxaSTyeJwo-1HdNntkyRRDuyLE)
+#### 👩‍💻About me
 As a passionate Computer Science undergraduate and aspiring web developer, I am dedicated to leveraging technology to create transformative solutions. My journey has progressed from the classroom to the dynamic world of web development, where I continuously innovate and learn every day.
 
 Skills:  HTML / CSS/ TailwindCSS/REACT / JS /MongoDB/Express/nodeJS
