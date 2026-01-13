@@ -13,7 +13,7 @@ I enjoy developing scalable applications, deploying them to the cloud, and impro
 - ☁️ Hands-on experience with **AWS & DevOps tools**
 - 🌱 Continuously improving **cloud, backend, and system design skills**
 - 👯 Open to collaborate on **full-stack and DevOps projects**
-- 💬 Ask me about **Web Development, DevOps, AWS, and Deployment**
+- 💬 Ask me about **Web Development, DevOps, AWS, CI/CD, and Deployment**
 
 ---
 
@@ -23,18 +23,43 @@ I enjoy developing scalable applications, deploying them to the cloud, and impro
 
 ---
 
-<h3 align="left">Skills: C / C++ / HTML / CSS / TailwindCSS / React / JavaScript / MongoDB / Express / Node.js / Firebase / AWS / DevOps / Git / Docker / Figma / Vue.js</h3>
+<h3 align="left">Skills & Tools</h3>
+
+<strong>Languages & Web:</strong>  
+C / C++ / JavaScript / HTML / CSS / TailwindCSS / React / Vue.js  
+
+<strong>Backend & Database:</strong>  
+Node.js / Express.js / MongoDB / Firebase  
+
+<strong>DevOps, Cloud & Infrastructure:</strong>  
+AWS (EC2, S3, IAM, VPC, RDS, CloudFront, Route53, Lambda) /  
+Docker / Docker Compose / Kubernetes /  
+Git / GitHub / GitHub Actions /  
+Jenkins /  
+Terraform /  
+Nginx /  
+Linux / Bash /  
+CI/CD Pipelines / Monitoring & Logging  
+
+<strong>Design & Tools:</strong>  
+Figma / Git / GitHub  
+
+---
 
 <p align="left">  
-<a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
-<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a>
-<a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></a>
-<a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/></a>
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45"/></a>
+<a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="45"/></a>
+<a href="https://www.jenkins.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="45"/></a>
+<a href="https://www.terraform.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="45"/></a>
+<a href="https://www.nginx.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="45"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/></a>
+<a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/></a>
+<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45"/></a>
+<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45"/></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45"/></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45"/></a>
 </p>
 
 ---
