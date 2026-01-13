@@ -32,13 +32,13 @@ C / C++ / JavaScript / HTML / CSS / TailwindCSS / React / Vue.js
 Node.js / Express.js / MongoDB / Firebase  
 
 <strong>DevOps, Cloud & Infrastructure:</strong>  
-AWS (EC2, S3, IAM, VPC, RDS, CloudFront, Route53, Lambda) /  
-Docker / Docker Compose / Kubernetes /  
-Git / GitHub / GitHub Actions /  
-Jenkins /  
-Terraform /  
-Nginx /  
-Linux / Bash /  
+AWS (EC2, S3, IAM, VPC, RDS, CloudFront, Route53, Lambda) 
+Docker / Docker Compose / Kubernetes
+Git / GitHub / GitHub Actions
+Jenkins  
+Terraform
+Nginx 
+Linux / Bash
 CI/CD Pipelines / Monitoring & Logging  
 
 <strong>Design & Tools:</strong>  
