@@ -69,12 +69,3 @@ Git / GitHub
 
 ---
 
-#### 📊 GitHub Stats  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Zarinjahanshazi)   
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zarinjahanshazi)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Zarinjahanshazi)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Zarinjahanshazi/contributions?format=svg&private=true)
