@@ -10,7 +10,7 @@ $ echo "Welcome to my profile 👋"
 
 <br/>
 
-![AWS](https://img.shields.io/badge/AWS_Certified-In_Progress-1D9E75?style=flat-square&logoColor=white&color=1D9E75)
+![AWS](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-Score%3A_911%2F1000-1D9E75?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-185FA5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform_IaC-534AB7?style=flat-square&logo=terraform&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD_Pipelines-854F0B?style=flat-square&logoColor=white)
@@ -125,7 +125,7 @@ $ echo "Welcome to my profile 👋"
 
 > 🧱 **Infrastructure as Code mindset** — every environment defined in Terraform, versioned in Git, and repeatable from day one.
 
-> 📈 **Continuously upskilling** — currently pursuing **AWS Solutions Architect Associate (SAA-C03)** certification.
+> 🏆 **AWS Certified** — passed **AWS Solutions Architect Associate (SAA-C03)** with a score of **911/1000**.
 
 ---
 
