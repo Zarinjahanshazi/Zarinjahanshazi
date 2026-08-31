@@ -21,13 +21,12 @@
 
 ### 👋 About Me
 
-Cloud & DevOps engineer based in Dhaka, Bangladesh — currently a **DevOps Engineer Trainee at GRAAHO Limited** (AWS Advanced Tier Services Partner), and pursuing an **M.Sc. in CSE at Jagannath University**.
+DevOps engineer based in Dhaka, Bangladesh — currently a **DevOps Engineer at Graaho Technologies Limited** (AWS Advanced Tier Services Partner), and pursuing an **M.Sc. in CSE at Jagannath University**.
 
 ```yaml
-role: DevOps Engineer Trainee @ GRAAHO Limited
+role: DevOps Engineer @ Graaho Technologies Limited
 focus: [AWS, Kubernetes, Terraform, CI/CD, GitOps]
 currently_studying: M.Sc. CSE — Jagannath University
-currently_targeting: AWS DevOps Engineer Professional (DOP-C02)
 ```
 
 - ☁️ Designing & deploying scalable, production-grade **AWS** architectures — cost reviews, rightsizing, RDS/EC2 trade-off analysis
