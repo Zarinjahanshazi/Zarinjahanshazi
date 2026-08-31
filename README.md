@@ -71,7 +71,6 @@ currently_studying: M.Sc. CSE — Jagannath University
 <div align="center">
 
 <img src="https://img.shields.io/badge/AWS_Solutions_Architect_Associate-SAA--C03_·_911%2F1000-1D9E75?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS_DevOps_Engineer_Professional-DOP--C02_·_In_Progress-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 
 </div>
 
