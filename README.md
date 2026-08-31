@@ -19,10 +19,6 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
-<table width="100%">
-<tr>
-<td width="62%" valign="top">
-
 ### 👋 About Me
 
 Cloud & DevOps engineer based in Dhaka, Bangladesh — currently a **DevOps Engineer Trainee at GRAAHO Limited** (AWS Advanced Tier Services Partner), and pursuing an **M.Sc. in CSE at Jagannath University**.
@@ -34,31 +30,40 @@ currently_studying: M.Sc. CSE — Jagannath University
 currently_targeting: AWS DevOps Engineer Professional (DOP-C02)
 ```
 
-- ☁️ Designing & deploying scalable, production-grade **AWS** architectures
+- ☁️ Designing & deploying scalable, production-grade **AWS** architectures — cost reviews, rightsizing, RDS/EC2 trade-off analysis
 - 🔁 Building CI/CD pipelines with **Jenkins** & **GitHub Actions**
-- 📦 Running containerized workloads on **Docker** & **Kubernetes (EKS)**
-- 🧱 Automating infra with **Terraform**
-- 🌱 Currently deepening GitOps practice with **Argo CD**
+- 📦 Running containerized workloads on **Docker** & **Kubernetes (EKS)**, GitOps delivery with **Argo CD**
+- 🧱 Automating infra with **Terraform** and operational automation via **SSM, EventBridge, CloudWatch**
+- 📊 Setting up monitoring/alerting with **CloudWatch, SNS, Prometheus & Grafana**
 - 💬 Ask me about **AWS, DevOps, Kubernetes, CI/CD, Linux**
-
-</td>
-<td width="38%" valign="top" align="center">
-
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
-
-</td>
-</tr>
-</table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
 ### 🧰 Tech Stack
 
-<div align="center">
+**☁️ Cloud & Infrastructure**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes" />
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,nginx,linux,bash,nodejs,express,mongodb,git,github&perline=7" />
+**🔁 CI/CD & Version Control**
+<br/>
+<img src="https://skillicons.dev/icons?i=jenkins,githubactions,git,github" />
 
-</div>
+**🖥️ Backend & Web Stacks**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,nextjs,laravel,php" />
+
+**🗄️ Databases**
+<br/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=flat-square&logo=amazon-rds&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+
+**📊 Monitoring & Observability**
+<br/>
+<img src="https://skillicons.dev/icons?i=grafana,prometheus" /> <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazon-cloudwatch&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon_SNS-DD344C?style=flat-square&logo=amazonsimpleq&logoColor=white"/>
+
+**⚙️ OS, Shell & Docs**
+<br/>
+<img src="https://skillicons.dev/icons?i=linux,bash,powershell,latex" /> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
