@@ -1,168 +1,145 @@
 <div align="center">
 
-```
-$ echo "Welcome to my profile 👋"
-```
-
-# Zarin Jahan Shazi
-
-### ☁️ Cloud & DevOps Engineer &nbsp;·&nbsp; AWS Hands-On &nbsp;·&nbsp; Automation Focused
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=1D9E75&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Zarin+%F0%9F%91%8B;Cloud+%26+DevOps+Engineer;AWS+Hands-On+%7C+Automation+Focused;Building+reliable+systems%2C+one+pipeline+at+a+time." alt="Typing SVG" />
 
 <br/>
 
-![AWS](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-Score%3A_911%2F1000-1D9E75?style=flat-square&logo=amazon-aws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-185FA5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform_IaC-534AB7?style=flat-square&logo=terraform&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD_Pipelines-854F0B?style=flat-square&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-993C1D?style=flat-square&logo=docker&logoColor=white)
-![Open](https://img.shields.io/badge/Open_to_Opportunities-3B6D11?style=flat-square&logoColor=white)
+<a href="https://www.linkedin.com/in/zarin-shazi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Zarinjahanshazi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.facebook.com/zarin.shazi.3"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Zarinjahanshazi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zarin-shazi/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/zarin.shazi.3)
+![Profile Views](https://komarev.com/ghpvc/?username=Zarinjahanshazi&color=1D9E75&style=flat-square&label=Profile+Views)
+![AWS SAA-C03](https://img.shields.io/badge/AWS_SAA--C03-911%2F1000-1D9E75?style=flat-square&logo=amazon-aws&logoColor=white)
+![CKA](https://img.shields.io/badge/CKA-Certified-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Open_to_Opportunities-3B6D11?style=flat-square)
 
 </div>
 
----
+<br/>
 
 ## 👩‍💻 About Me
 
-| | |
-|:---:|:---|
-| ☁️ | Designing & deploying **scalable cloud architectures** on AWS with production-grade reliability. |
-| 🔁 | Building & managing **CI/CD pipelines** using Jenkins and GitHub Actions to ship faster. |
-| 📦 | Working with **containerized workloads** — Docker, Kubernetes, and cloud-native patterns. |
-| 🧱 | Automating infrastructure with **Terraform IaC** for repeatable, consistent environments. |
-| 🌱 | Continuously improving **cloud architecture & system reliability**. |
-| 💬 | Ask me about **AWS, DevOps, CI/CD, Docker, Kubernetes, Linux**. |
+```yaml
+name: Zarin Jahan Shazi
+role: DevOps Engineer Trainee @ GRAAHO Limited (AWS Advanced Tier Partner)
+location: Dhaka, Bangladesh
+currently_studying: M.Sc. in CSE, Jagannath University
+focus: [AWS, Kubernetes, Terraform, CI/CD, Automation]
+philosophy: "Infrastructure as Code, everything reproducible."
+fun_fact: "I break prod in staging so it doesn't happen in production 🚀"
+```
 
----
+- ☁️ Designing & deploying **scalable, production-grade AWS architectures**
+- 🔁 Building **CI/CD pipelines** with Jenkins & GitHub Actions
+- 📦 Running **containerized workloads** on Docker & Kubernetes (EKS)
+- 🧱 Automating infra with **Terraform IaC**
+- 🌱 Currently deepening GitOps practices with **Argo CD**
+- 💬 Ask me about **AWS, DevOps, Kubernetes, CI/CD, Linux**
 
-## 🔧 Skills & Tools
+<br/>
 
-### ☁️ AWS Cloud
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazon-aws&logoColor=white)
-![VPC](https://img.shields.io/badge/VPC-8C4FFF?style=flat-square&logo=amazon-aws&logoColor=white)
-![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazon-rds&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white)
-![CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?style=flat-square&logo=amazon-aws&logoColor=white)
-![Route53](https://img.shields.io/badge/Route_53-8C4FFF?style=flat-square&logo=amazon-aws&logoColor=white)
+## 🧰 Tech Stack
 
-### 📦 Containers & Orchestration
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+<table>
+<tr>
+<td valign="top" width="50%">
 
-### ⚙️ IaC & Automation
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+**☁️ Cloud (AWS)**
+<br/>
+<img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white"/> <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white"/> <img src="https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/VPC-8C4FFF?style=flat-square&logo=amazon-aws&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazon-rds&logoColor=white"/> <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white"/> <img src="https://img.shields.io/badge/CloudFront-8C4FFF?style=flat-square&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Route_53-8C4FFF?style=flat-square&logo=amazon-aws&logoColor=white"/>
 
-### 🔁 CI/CD & DevOps
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+**📦 Containers & Orchestration**
+<br/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white"/> <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white"/>
 
-### 🗄️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+</td>
+<td valign="top" width="50%">
 
-### 🗂️ Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+**⚙️ IaC & Automation**
+<br/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 
----
+**🔁 CI/CD & Monitoring**
+<br/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
 
-## 🛠️ Tools & Technologies
+**🗄️ Backend & Database**
+<br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 
-<p align="left">
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" title="AWS"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="48" title="Docker"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="48" title="Kubernetes"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.jenkins.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="48" title="Jenkins"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.terraform.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="48" title="Terraform"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.nginx.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="48" title="Nginx"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" title="Git"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" title="GitHub"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" title="Linux"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="48" title="Node.js"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" title="MongoDB"/>
-  </a>
-</p>
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-## 🚀 What I Bring to the Table
+## 🏆 Certifications
 
-> ☁️ **End-to-end cloud ownership** — from architecting VPCs and deploying containerized apps, to automating deployments through CI/CD pipelines and monitoring production systems.
+<div align="center">
 
-> 🧱 **Infrastructure as Code mindset** — every environment defined in Terraform, versioned in Git, and repeatable from day one.
+| Certification | Issuer | Status |
+|---|---|---|
+| AWS Certified Solutions Architect – Associate (SAA-C03) | AWS | ✅ Passed — 911/1000 |
+| Certified Kubernetes Administrator (CKA) | CNCF/Linux Foundation | ✅ Certified |
+| Terraform Associate | HashiCorp | ✅ Certified |
+| OCI DevOps Professional | Oracle | ✅ Certified |
+| AWS DevOps Engineer Professional (DOP-C02) | AWS | 🎯 In progress |
 
-> 🏆 **AWS Certified** — passed **AWS Solutions Architect Associate (SAA-C03)** with a score of **911/1000**.
+</div>
 
----
+<br/>
+
+## 🚀 Featured Projects
+
+<details open>
+<summary><b>🔹 devops-api — Production-Grade Node.js API with Full CI/CD</b></summary>
+<br/>
+
+A Node.js REST API deployed through a **7-stage Jenkins pipeline**, with AWS infra fully provisioned via **Terraform** (VPC, EC2, ECR in `ap-south-1`), containerized with **Docker + Nginx**, and monitored via **Prometheus & Grafana**.
+
+`Terraform` `Jenkins` `Docker` `Nginx` `Prometheus` `Grafana` `AWS`
+
+</details>
+
+<details>
+<summary><b>🔹 retail-store-sample-app — GitOps on Amazon EKS</b></summary>
+<br/>
+
+Microservices retail store (UI, Catalog, Cart, Orders, Checkout) deployed on **Amazon EKS Auto Mode**, provisioned with **Terraform**, and shipped via a **GitOps workflow** using **Argo CD** + **GitHub Actions**, with NGINX Ingress and Cert Manager.
+
+`EKS` `Terraform` `Argo CD` `GitHub Actions` `GitOps`
+
+</details>
+
+<br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Zarinjahanshazi&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zarinjahanshazi&layout=compact&hide_border=true&theme=default" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Zarinjahanshazi&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zarinjahanshazi&layout=compact&hide_border=true&theme=default" />
 
-<br/><br/>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Zarinjahanshazi&theme=default&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=Zarinjahanshazi&theme=default&hide_border=true" />
 
 </div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-💼 **Let's connect and build something great together!**
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zarin-shazi/)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zarinjahanshazi)
-&nbsp;
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/zarin.shazi.3)
-
-</div>
-
----
+## 📫 Let's Connect
 
 <div align="center">
-  <sub>☁️ Cloud & DevOps Enthusiast &nbsp;·&nbsp; Building reliable systems, one pipeline at a time. &nbsp;·&nbsp; Open to exciting opportunities!</sub>
+
+I'm actively exploring **Cloud/DevOps roles** — always happy to talk AWS, Kubernetes, or CI/CD.
+
+<a href="https://www.linkedin.com/in/zarin-shazi/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Zarinjahanshazi"><img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.facebook.com/zarin.shazi.3"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+
+<sub>☁️ Cloud & DevOps Enthusiast · Building reliable systems, one pipeline at a time.</sub>
+
 </div>
