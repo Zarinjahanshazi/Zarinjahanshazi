@@ -21,7 +21,7 @@
 
 ### 👋 About Me
 
-Cloud & DevOps engineer based in Dhaka, Bangladesh — currently a **DevOps Engineer at GRAAHO Limited** (AWS Advanced Tier Services Partner), and pursuing an **M.Sc. in CSE at Jagannath University**.
+DevOps engineer based in Dhaka, Bangladesh — currently a **DevOps Engineer at GRAAHO Limited** (AWS Advanced Tier Services Partner), and pursuing an **M.Sc. in CSE at Jagannath University**.
 
 ```yaml
 role: DevOps Engineer @ GRAAHO Limited
