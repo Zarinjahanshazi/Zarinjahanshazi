@@ -21,10 +21,10 @@
 
 ### 👋 About Me
 
-DevOps engineer based in Dhaka, Bangladesh — currently a **DevOps Engineer at GRAAHO Limited** (AWS Advanced Tier Services Partner), and pursuing an **M.Sc. in CSE at Jagannath University**.
+Cloud & DevOps engineer based in Dhaka, Bangladesh — currently a **DevOps Engineer Trainee at GRAAHO Limited** (AWS Advanced Tier Services Partner), and pursuing an **M.Sc. in CSE at Jagannath University**.
 
 ```yaml
-role: DevOps Engineer @ GRAAHO Limited
+role: DevOps Engineer Trainee @ GRAAHO Limited
 focus: [AWS, Kubernetes, Terraform, CI/CD, GitOps]
 currently_studying: M.Sc. CSE — Jagannath University
 currently_targeting: AWS DevOps Engineer Professional (DOP-C02)
@@ -89,17 +89,17 @@ Production-grade Node.js REST API shipped through a **7-stage Jenkins pipeline**
 
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
 
-**[↗ View Repository](https://github.com/Zarinjahanshazi)**
+**[↗ View Repository](https://github.com/Zarinjahanshazi/devops-api)**
 
 </td>
 <td width="50%" valign="top">
 
-#### 🔹 retail-store-sample-app
-Microservices retail store deployed on **Amazon EKS Auto Mode**, provisioned via Terraform, shipped through a full **GitOps workflow** with Argo CD + GitHub Actions, NGINX Ingress, and Cert Manager.
+#### 🔹 Argo CD on EKS — GitOps Deployment
+Deployed a **Flask backend + Next.js frontend** to Amazon EKS through full GitOps: Argo CD auto-sync, GitHub Actions CI/CD (build → push → gitops-repo-update → auto-sync), and Prometheus/Grafana monitoring.
 
-<img src="https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=amazon-eks&logoColor=white"/> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/> <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white"/> <img src="https://img.shields.io/badge/GitOps-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=amazon-eks&logoColor=white"/> <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/> <img src="https://img.shields.io/badge/GitOps-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
 
-**[↗ View Repository](https://github.com/Zarinjahanshazi)**
+**Repos:** [flask-app-gitops](https://github.com/Zarinjahanshazi/flask-app-gitops) · [nextjs-app](https://github.com/Zarinjahanshazi/nextjs-app) · [flask-basic-app](https://github.com/Zarinjahanshazi/flask-basic-app)
 
 </td>
 </tr>
